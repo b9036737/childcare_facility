@@ -5,3 +5,4 @@ population <- read.xlsx("C:\\Users\\Ralst\\Documents\\1-UNI\\ADM\\Childcare Faci
 library(tidyverse)
 library(openxlsx)
 
+#Samsung was here 
